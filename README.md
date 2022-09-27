@@ -24,3 +24,7 @@ Date: 27 Sept 2022
  To be implemented:
  * Products as Objects with methods (OOP)
  * Ability to ADD and REMOVE a product
+ 
+# Sample Output
+
+![](output.PNG)
